@@ -4,7 +4,7 @@
 
 Gerador de senhas para praticar o HTML e Javascript puro, contendo um formulário de registro de usuário, onde ele te ajuda a gerar uma senha segura, podendo customizar! Escolhendo o número de caracteres, letras, números ou símbolos, e assim que receber a senha, você poderá copiar pelo botão "Copiar".
 
-<img src="https://postimg.cc/z3kxvc2y" alt="Senha">
+<img src="https://i.postimg.cc/RCkysrcL/Sem-t-tulo.png" alt="Senha">
 
 
 # :computer: Tecnologias 
